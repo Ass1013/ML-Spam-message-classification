@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/JupyterProject2.iml" filepath="$PROJECT_DIR$/.idea/JupyterProject2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spam message classification.iml" filepath="$PROJECT_DIR$/.idea/Spam message classification.iml" />
     </modules>
   </component>
 </project>

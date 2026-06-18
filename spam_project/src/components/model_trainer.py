@@ -13,7 +13,6 @@ from sklearn.metrics import (
 from sklearn.model_selection import GridSearchCV
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.svm import LinearSVC
-
 from src.config import config
 from src.utils.exception import SpamDetectionException
 from src.utils.logger import get_logger

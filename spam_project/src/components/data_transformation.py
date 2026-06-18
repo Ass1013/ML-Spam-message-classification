@@ -5,7 +5,6 @@ import sys
 import joblib
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
-
 from src.config import config
 from src.utils.exception import SpamDetectionException
 from src.utils.logger import get_logger

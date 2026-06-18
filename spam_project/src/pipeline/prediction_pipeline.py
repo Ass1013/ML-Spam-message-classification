@@ -2,7 +2,6 @@ import sys
 
 import joblib
 import pandas as pd
-
 from src.components.data_transformation import clean_text
 from src.config import config
 from src.utils.exception import SpamDetectionException

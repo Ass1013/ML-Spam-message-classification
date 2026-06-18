@@ -2,7 +2,6 @@ import sys
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
-
 from src.config import config
 from src.utils.exception import SpamDetectionException
 from src.utils.logger import get_logger

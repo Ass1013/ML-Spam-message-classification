@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 from sklearn.metrics import auc, confusion_matrix, roc_curve
-
 from src.config import config
 from src.utils.exception import SpamDetectionException
 from src.utils.logger import get_logger

@@ -1,5 +1,5 @@
 # Spam Message Classification
-
+by Assyl Bulembekov and Alan Batyrkhan /IT2512
 A modular machine learning pipeline that classifies SMS/email messages as
 **spam** or **ham** (legitimate). Built with a clean separation between data
 ingestion, transformation, model training, and inference, plus a simple
